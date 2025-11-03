@@ -13,3 +13,5 @@ It was possible to generate the particles, their fundamental properties and thei
 For the generation in each event, the Monte Carlo method was used in order to respect certain proportions.
 
 For the results obtained, see the file lab2025.pdf .
+
+It was a group project carried out during the Electromagnetism and Optics laboratory course of the Bachelor's degree in Physics at UNIBO.
