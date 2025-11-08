@@ -12,6 +12,6 @@ The program was developed with the C++ programming language, implementing the RO
 It was possible to generate the particles, their fundamental properties and their behavior following collisions through the definition of specific classes and methods.
 For the generation in each event, the Monte Carlo method was used in order to respect certain proportions.
 
-For the results obtained, see the file lab2025.pdf .
+For the results obtained, see the file **lab2025.pdf**.
 
 It was a group project carried out during the Electromagnetism and Optics laboratory course of the Bachelor's degree in Physics at UNIBO.
