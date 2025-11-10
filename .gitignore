@@ -1,10 +1,11 @@
 /build/
 /CMakeFiles/
 /CMakeCache.txt
-/*.cmake
-/*.o
-/*.obj
-/*.exe
+*.o
+*.obj
+*.exe
+*.d
+*.so
 .vscode/
 *.user
 *.suo
