@@ -1,0 +1,13 @@
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake
+/*.o
+/*.obj
+/*.exe
+.vscode/
+*.user
+*.suo
+.DS_Store
+*~
+*.swp
